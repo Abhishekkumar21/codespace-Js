@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Abhishekkumar21/codespace-Js/issues"
   },
-  "homepage": "https://github.com/Abhishekkumar21/codespace-Js#readme"
+  "homepage": "https://github.com/Abhishekkumar21/codespace-Js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
